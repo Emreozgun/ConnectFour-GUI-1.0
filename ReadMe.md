@@ -21,16 +21,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Badges](https://img.shields.io/badge/open-source-blueviolet.svg)
 
-***SOME PICTURE FROM GAME***
+**GamePlay**
 
-![c++_resim1](https://user-images.githubusercontent.com/30092986/61188982-9f05c380-a68f-11e9-953a-0704a5341122.png)
-
-![computer_winner](https://user-images.githubusercontent.com/30092986/61189139-c3fb3600-a691-11e9-8b0f-97a7830c934e.png)
-> The computer won against me :)
-
-**GIF WHILE PLAYING**
-
-![computer_winner_gif](https://user-images.githubusercontent.com/30092986/61189238-53551900-a693-11e9-88de-9263d8ace039.gif)
+![cn4_gameplay](https://user-images.githubusercontent.com/30092986/93227910-9326fd00-f77d-11ea-9bd9-597de08aeaa2.gif)
 
 **When I write the code :)**
 
