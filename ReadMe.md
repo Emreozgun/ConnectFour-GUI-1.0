@@ -42,8 +42,9 @@
 ### Clone
 
 - Clone this repo to your local machine using **https://github.com/Emreozgun/ConnectFour-GUI-1.0.git**
-- Then open the terminal and go to the directory where the file is located.
-- Run with **make all && ./exe** 
+- Then open the terminal and go to the directory where the file is located.(go for ConnectFour directory)
+- Run with **javac -Xlint ConnectFour/*.java** && **java ConnectFour.Main**
+- And enjoy :) 
 
 
 ## Support
