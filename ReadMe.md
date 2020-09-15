@@ -1,4 +1,3 @@
-![cf4_c++_background](https://user-images.githubusercontent.com/30092986/61188720-06217900-a68c-11e9-9703-aaddb5032b41.png)
 
 # CONNECTFOUR GAME
 
